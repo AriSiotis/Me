@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ras19
+- 👋 Hi, I’m @Ari
 - 👀 I’m interested in Data Analysis, Finance, Generative Art
 - 🌱 I’m currently learning how to design Generative Art programmes
-- 💞️ I’m looking to collaborate on all of the above topics
 - 📫 How to reach me at arissiotis@gmail.com
 
 <!---
